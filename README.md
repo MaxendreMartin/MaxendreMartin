@@ -9,17 +9,17 @@
 - [Mail](mailto:maxendremartin@gmail.com) 
 
 ### Mes Repo Becode: 
--[Becode-training](https://github.com/MaxendreMartin/Becode-training)
--[Hangman](https://github.com/MaxendreMartin/Hangman)
--[Hackers-poulette](https://github.com/MaxendreMartin/hackers-poulette)
+- [Becode-training](https://github.com/MaxendreMartin/Becode-training)
+- [Hangman](https://github.com/MaxendreMartin/Hangman)
+- [Hackers-poulette](https://github.com/MaxendreMartin/hackers-poulette)
 
 ### Quelques Challenge solo ou en groupe:
--[Hangman](https://maxendremartin.github.io/Hangman/) (solo, Javascript)
--[Hackers-poulette](https://hackers-poulette-contact-max.herokuapp.com/) (solo, PHP pas fini)
--[Restaurant](https://linardjeremy.github.io/restaurant-framework/) (groupe, Bootstrap)
--[Coffee Clicker](http://becode.gerardo-cella.net/CookiesClicker/) (groupe, Javascript)
--[JS data](https://linardjeremy.github.io/js-datavisualisation-challenge/) (groupe, Javascript)
--[Cogip](https://calvin-jitnaree.alwaysdata.net/COGIP-app/) (groupe, PHP SQL)
+- [Hangman](https://maxendremartin.github.io/Hangman/) (solo, Javascript)
+- [Hackers-poulette](https://hackers-poulette-contact-max.herokuapp.com/) (solo, PHP pas fini)
+- [Restaurant](https://linardjeremy.github.io/restaurant-framework/) (groupe, Bootstrap)
+- [Coffee Clicker](http://becode.gerardo-cella.net/CookiesClicker/) (groupe, Javascript)
+- [JS data](https://linardjeremy.github.io/js-datavisualisation-challenge/) (groupe, Javascript)
+- [Cogip](https://calvin-jitnaree.alwaysdata.net/COGIP-app/) (groupe, PHP SQL)
 
 ### Portfolio
-: construction:
+🚧
