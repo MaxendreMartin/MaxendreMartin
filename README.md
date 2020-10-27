@@ -13,7 +13,7 @@
 - [Hangman](https://github.com/MaxendreMartin/Hangman)
 - [Hackers-poulette](https://github.com/MaxendreMartin/hackers-poulette)
 
-### Quelques Challenge solo ou en groupe:
+### Quelques Challenges solo ou en groupe:
 - [Hangman](https://maxendremartin.github.io/Hangman/) (solo, Javascript)
 - [Hackers-poulette](https://hackers-poulette-contact-max.herokuapp.com/) (solo, PHP pas fini)
 - [Restaurant](https://linardjeremy.github.io/restaurant-framework/) (groupe, Bootstrap)
