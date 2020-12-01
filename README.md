@@ -9,7 +9,7 @@
 - [Mail](mailto:maxendremartin@gmail.com) 
 
 ### WorkShop Redux dans le cas de la formation BeCode (Gerardo, Calvin, Stephane et moi même)
--[WorkShop Redux](https://github.com/GerardoCella7/redux_ws)
+- [WorkShop Redux](https://github.com/GerardoCella7/redux_ws)
 
 ### Mes Repo Becode: 
 - [Becode-training](https://github.com/MaxendreMartin/Becode-training)
