@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Je m'appelle [Maxendre](https://www.linkedin.com/in/maxendre-martin/), j'ai 20 ans et je suis actuellement Junior Web Developer chez BeCode avec une méthode d'apprentissage basé sur l'autonomie et le travail d'équipe
+#### Je m'appelle [Maxendre](https://www.linkedin.com/in/maxendre-martin/), j'ai 22 ans et je suis actuellement Junior Web Developer avec une méthode d'apprentissage basé sur l'autonomie et le travail d'équipe
 
 ---
 
@@ -24,5 +24,3 @@
 - [JS data](https://linardjeremy.github.io/js-datavisualisation-challenge/) (groupe, Javascript)
 - [Cogip](https://calvin-jitnaree.alwaysdata.net/COGIP-app/) (groupe, PHP SQL)
 
-### Portfolio
-🚧
